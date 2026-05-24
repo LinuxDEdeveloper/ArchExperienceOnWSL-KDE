@@ -19,3 +19,7 @@
 
 # NOTE
 Such you don't know how to use WSL,doc there. [How to use WSL](https://github.com/mikeroyal/WSL-Guide)
+
+Where is the Linux Kernel and what is this:[What is this](https://en.wikipedia.org/wiki/Linux_kernel)
+
+Linux kernel Repo:[Linux Kernel](https://github.com/torvalds/linux)
