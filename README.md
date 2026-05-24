@@ -8,7 +8,7 @@
 ## + Familiar with the fast-updating (Rolling Release) linux distros in particular and Linux distros in general.
 
 # Disadvantages
-## + It's difficult to get used to for people who are afraid of using WSL and Terminal, those who know nothing about Arch Linux, basic commands on Linux and Powershell, and operations from Windows.
+## + It's difficult to get used to for people who are afraid of using WSL and Terminal, those who know nothing about Arch Linux, basic commands on Linux and Powershell,edit feature on BIOS (VT-x or AMD-v), and operations from Windows.
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
