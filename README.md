@@ -16,6 +16,8 @@
 # Warnning!
 ### The project is still in the testing phase, so please be responsible for what you are doing and bear the consequences of any problems you create.
 ### If you still want learn more about Arch Linux,how to fix error on Arch Linux, please read the Arch Linux wiki. [ArchWiki](https://wiki.archlinux.org/)
+### THIS REPO IS ONLY README.MD ONLY,FULL DOCUMENT IS ON THERE [Document ArchExperienceOnWSL-KDE](about:bank) # tester
+
 
 # NOTE
 Such you don't know how to use WSL,doc there. [How to use WSL](https://github.com/mikeroyal/WSL-Guide)
